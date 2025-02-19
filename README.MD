@@ -19,3 +19,4 @@ MedChatBot is a retrieval-augmented medical chatbot that uses a Llama 3.2 model 
    ```bash
    python -m venv venv
    venv\Scripts\activate   # On Windows
+   ```
